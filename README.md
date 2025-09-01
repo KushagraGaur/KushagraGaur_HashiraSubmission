@@ -99,3 +99,11 @@ Output:
 
 
 Do you want me to also add a section explaining the structure of the JSON input (like what `n`, `k`, and `arr` represent), so the evaluator doesn’t have to infer it?
+
+
+## Author: 
+Kushagra Gaur
+229303325 - Registration Number
+kushagragaur31@gmail.com
+
+(for hashira)
